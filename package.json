@@ -17,5 +17,7 @@
     "node": ">=18"
   },
   "license": "UNLICENSED",
-  "dependencies": {}
+  "devDependencies": {
+    "postject": "^1.0.0-alpha.4"
+  }
 }
